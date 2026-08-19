@@ -2,6 +2,11 @@
 
 A clean, responsive React-based digital clock web app designed with an immersive Glassmorphism aesthetic over an animated background. The project highlights core React state management alongside conditional CSS class binding to deliver a polished user experience.
 
+
+# Live Demo :
+
+  https://adhamahmed007.github.io/Digital-Clock/
+
 ### 🚀 Key Features
 
 * ⏱️ **Precise Time Tracking:** Continuous 1-second interval execution using React's `useEffect` for clean lifecycle management and DOM updates.
